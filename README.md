@@ -29,15 +29,18 @@ I initially encountered errors because the formulas for "Number Success", "Numbe
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 Conclusion 1 - In warmer weather, theatre plays are more likely to be successful. According to the graph, the most successful campaigns were launched in May, June, and July. This is normally the warmest time of year. 
 Conclusion 2 - During colder weather, theatre plays were not successful. Based on the graph, campaigns launched in December had the lowest success rate. December is usually a cold month. 
 
 - What can you conclude about the Outcomes based on Goals?
+
 The data suggests that goals of $45,000 and higher are almost certain to fail.
 
 - What are some limitations of this dataset?
 N/A
 
 - What are some other possible tables and/or graphs that we could create?
+
 For the "Theatre Outcome Based on Launch Date" data I would have used a column or even a stacked bar chart to compare the successful, failed and canceled projects. Also, the "Outcome Based on Goals" data would have been best presented with a stacked bar chart as well, especially considering that the data is expressed in percentages, and it appears that success complements failure. As an example, goals under $1,000 have a success rate of just under 80%, while the chances of them failing are just above 20%, giving you a total of 100%. In this case, a stacked bar chart would have worked perfectly. 
 
