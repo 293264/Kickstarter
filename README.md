@@ -42,5 +42,5 @@ N/A
 
 - What are some other possible tables and/or graphs that we could create?
 
-For the "Theatre Outcome Based on Launch Date" data I would have used a column or even a stacked bar chart to compare the successful, failed and canceled projects. Also, the "Outcome Based on Goals" data would have been best presented with a stacked bar chart as well, especially considering that the data is expressed in percentages, and it appears that success complements failure. As an example, goals under $1,000 have a success rate of just under 80%, while the chances of them failing are just above 20%, giving you a total of 100%. In this case, a stacked bar chart would have worked perfectly. 
+For the "Theatre Outcome Based on Launch Date" data I would have used a column or even a stacked bar chart to compare the successful, failed and canceled projects. Also, the "Outcome Based on Goals" data would have been best presented with a stacked bar chart as well, especially considering that the data is expressed in percentages, and it appears that success complements failure. For example, goals under $1,000 have a success rate of just under 80%, while the chances of them failing are just above 20%, giving you a total of 100%. In this case, a stacked bar chart would have worked perfectly. 
 
